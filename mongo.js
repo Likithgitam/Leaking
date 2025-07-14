@@ -1,1 +1,1 @@
-mongodb+srv://admin:admin123@cluster0.epexevv.mongodb.net/blogify
+mongodb+srv://admin:pass123@cluster0.mhzkrth.mongodb.net/sample_restaurants
